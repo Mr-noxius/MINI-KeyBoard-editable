@@ -7,8 +7,6 @@ namespace HIDTester;
 
 public class FunKey : UserControl
 {
-	private IContainer components;
-
 	private Button KEY_Ctrl_left;
 
 	private Button KEY_Shift_left;
@@ -417,10 +415,6 @@ public class FunKey : UserControl
 
 	protected override void Dispose(bool disposing)
 	{
-		if (disposing && components != null)
-		{
-			components.Dispose();
-		}
 		base.Dispose(disposing);
 	}
 
@@ -649,7 +643,7 @@ public class FunKey : UserControl
 		this.KEY_Shift_And_12.Name = "KEY_Shift_And_12";
 		this.KEY_Shift_And_12.Size = new System.Drawing.Size(41, 23);
 		this.KEY_Shift_And_12.TabIndex = 95;
-		this.KEY_Shift_And_12.Text = "\uffe3";
+		this.KEY_Shift_And_12.Text = "￣";
 		this.KEY_Shift_And_12.UseVisualStyleBackColor = true;
 		this.KEY_Shift_And_12.Click += new System.EventHandler(KEY_Shift_And_12_Click);
 		this.KEY_Shift_And_13.Location = new System.Drawing.Point(517, 61);
