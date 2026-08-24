@@ -1,0 +1,18 @@
+<Project>
+  <!--
+    Theraot.Core-source is a .NET Framework 4.0 tuple/LINQ-expression polyfill library.
+    It defines its own TupleExtensions.Deconstruct(...) overloads for Tuple<T1,T2>..Tuple<T1..T8>
+    because net40 has no built-in System.ValueTuple support. When compiled with a modern C#
+    LangVersion, Roslyn's own built-in tuple/ITuple deconstruction binding becomes ambiguous with
+    Theraot's custom Deconstruct extension methods wherever a value is typed as `object` instead
+    of the concrete Tuple<...> type, producing CS0411 / CS8129 / CS1061 errors in ValueTuple.cs.
+
+    Pinning LangVersion here (scoped to this folder only, via MSBuild's automatic Directory.Build.props
+    lookup) restores the compiler behavior this library was originally written against, without
+    modifying Theraot.Core.csproj itself or any other project in the repository.
+  -->
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>
