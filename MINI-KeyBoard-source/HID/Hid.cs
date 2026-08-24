@@ -151,7 +151,6 @@ public class Hid
 	private void BeginAsyncRead()
 	{
 		byte[] array = new byte[InputReportLength];
-		_ = hidDevice.Handle;
 		readResult = hidDevice.BeginRead(array, 0, InputReportLength, ReadCompleted, array);
 	}
 

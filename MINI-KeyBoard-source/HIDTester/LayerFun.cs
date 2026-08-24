@@ -7,8 +7,6 @@ namespace HIDTester;
 
 public class LayerFun : UserControl
 {
-	private IContainer components;
-
 	private RadioButton KEY_Layer1;
 
 	private RadioButton KEY_Layer2;
@@ -55,10 +53,6 @@ public class LayerFun : UserControl
 
 	protected override void Dispose(bool disposing)
 	{
-		if (disposing && components != null)
-		{
-			components.Dispose();
-		}
 		base.Dispose(disposing);
 	}
 

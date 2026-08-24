@@ -6,8 +6,6 @@ namespace HIDTester;
 
 public class MULKey : UserControl
 {
-	private IContainer components;
-
 	private Button KEY_Play;
 
 	private Button KEY_VolumeAdd;
@@ -164,10 +162,6 @@ public class MULKey : UserControl
 
 	protected override void Dispose(bool disposing)
 	{
-		if (disposing && components != null)
-		{
-			components.Dispose();
-		}
 		base.Dispose(disposing);
 	}
 

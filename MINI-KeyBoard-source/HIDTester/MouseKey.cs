@@ -7,8 +7,6 @@ namespace HIDTester;
 
 public class MouseKey : UserControl
 {
-	private IContainer components;
-
 	private Button KEY_Mouse_Left;
 
 	private Button KEY_Mouse_Right;
@@ -171,10 +169,6 @@ public class MouseKey : UserControl
 
 	protected override void Dispose(bool disposing)
 	{
-		if (disposing && components != null)
-		{
-			components.Dispose();
-		}
 		base.Dispose(disposing);
 	}
 

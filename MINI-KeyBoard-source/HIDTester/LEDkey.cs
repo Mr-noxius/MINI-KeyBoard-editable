@@ -7,8 +7,6 @@ namespace HIDTester;
 
 public class LEDkey : UserControl
 {
-	private IContainer components;
-
 	private Button KEY_LEDMode0;
 
 	private Button KEY_LEDMode1;
@@ -103,10 +101,6 @@ public class LEDkey : UserControl
 
 	protected override void Dispose(bool disposing)
 	{
-		if (disposing && components != null)
-		{
-			components.Dispose();
-		}
 		base.Dispose(disposing);
 	}
 
