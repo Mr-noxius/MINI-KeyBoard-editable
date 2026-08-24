@@ -57,7 +57,7 @@ public class FormMain : Form
 
 	private AutoSizeFormClass asc = new AutoSizeFormClass();
 
-	private HidLib myHidLib = new HidLib();
+	internal HidLib myHidLib = new HidLib();
 
 	private byte[] RecDataBuffer = new byte[90];
 
@@ -158,6 +158,7 @@ public class FormMain : Form
 		LayerFunList();
 		Lanuage_Set_EN();
 		ModernTheme.Apply(this);
+		ProfileSwitcherIntegration.HookProfileSwitcher(this, myHidLib);
 	}
 
 	private void MenuList()
