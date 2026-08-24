@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/Theraot.Core-source": true
+  },
+  "search.exclude": {
+    "**/Theraot.Core-source": true
+  },
+  "omnisharp.enableEditorConfigSupport": true,
+  "dotnet.defaultSolution": "disable"
+}

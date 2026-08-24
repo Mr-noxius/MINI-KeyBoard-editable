@@ -1,0 +1,13 @@
+{
+  "RoslynExtensionsOptions": {
+    "enableAnalyzersSupport": true
+  },
+  "FileOptions": {
+    "excludeSearchPatterns": [
+      "**/Theraot.Core-source/**/*"
+    ]
+  },
+  "script": {
+    "enabled": false
+  }
+}
