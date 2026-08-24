@@ -1,0 +1,7 @@
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\MINI KeyBoard.csproj.AssemblyReference.cache
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\HIDTester.FormMain.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\HIDTester.LayerFun.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\HIDTester.LEDkey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\HIDTester.MouseKey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\HIDTester.MULKey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net40\MINI KeyBoard.csproj.GenerateResource.cache

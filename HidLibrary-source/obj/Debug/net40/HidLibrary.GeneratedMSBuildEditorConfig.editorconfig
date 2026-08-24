@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HidLibrary
+build_property.ProjectDir = C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\HidLibrary-source\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

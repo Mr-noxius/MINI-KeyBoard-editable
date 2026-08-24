@@ -1,0 +1,33 @@
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.exe.config
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.exe
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.pdb
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Buffers.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Memory.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Resources.Extensions.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\HidLibrary.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\Theraot.Core.dll
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.AssemblyReference.cache
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.exe.config
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.FormMain.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.LayerFun.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.LEDkey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.MouseKey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.MULKey.resources
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.GenerateResource.cache
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI Key.30A0FD6D.Up2Date
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.exe
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.pdb
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\HID-capture\MINI KeyBoard.exe.config
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\HID-capture\MINI KeyBoard.exe
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\HID-capture\MINI KeyBoard.pdb
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\QA-build\MINI KeyBoard.exe.config
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\QA-build\MINI KeyBoard.exe
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\QA-build\MINI KeyBoard.pdb
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.exe.config
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.exe
+C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.pdb
