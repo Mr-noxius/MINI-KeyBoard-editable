@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3a1SJawk6SE=",
+  "dgSpecHash": "Fc0l8j/0iG4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
+  "projectFilePath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\menno\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\menno\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"

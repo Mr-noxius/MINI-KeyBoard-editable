@@ -31,3 +31,28 @@ C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\QA-
 C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.exe.config
 C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.exe
 C:\Users\menno\Documents\Codex\2026-08-24\how\outputs\MINI-KeyBoard-editable\release\MINI KeyBoard.pdb
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.AssemblyReference.cache
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.SuggestedBindingRedirects.cache
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.exe.config
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.FormMain.resources
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.LayerFun.resources
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.LEDkey.resources
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.MouseKey.resources
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\HIDTester.MULKey.resources
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.GenerateResource.cache
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.csproj.CoreCompileInputs.cache
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.sourcelink.json
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.exe
+c:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI KeyBoard.pdb
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.exe.config
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.exe
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\MINI KeyBoard.pdb
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Buffers.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Memory.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Resources.Extensions.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\HidLibrary.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\bin\Debug\net461\Theraot.Core.dll
+C:\Users\menno\Downloads\MINI-KeyBoard-editable\MINI-KeyBoard-source\obj\Debug\net461\MINI Key.30A0FD6D.Up2Date

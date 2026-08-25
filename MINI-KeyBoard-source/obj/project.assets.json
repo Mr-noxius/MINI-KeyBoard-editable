@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
+      "projectUniqueName": "c:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
       "projectName": "MINI KeyBoard",
-      "projectPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
+      "projectPath": "c:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
       "packagesPath": "C:\\Users\\menno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\obj\\",
+      "outputPath": "c:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\menno\\AppData\\Roaming\\NuGet\\NuGet.Config"

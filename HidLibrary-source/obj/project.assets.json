@@ -451,11 +451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\HidLibrary-source\\HidLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\HidLibrary-source\\HidLibrary.csproj",
       "projectName": "HidLibrary",
-      "projectPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\HidLibrary-source\\HidLibrary.csproj",
+      "projectPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\HidLibrary-source\\HidLibrary.csproj",
       "packagesPath": "C:\\Users\\menno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\HidLibrary-source\\obj\\",
+      "outputPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\HidLibrary-source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\menno\\AppData\\Roaming\\NuGet\\NuGet.Config"

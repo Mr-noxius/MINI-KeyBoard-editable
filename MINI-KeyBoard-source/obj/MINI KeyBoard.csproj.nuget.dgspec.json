@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj": {}
+    "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj": {}
   },
   "projects": {
-    "c:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj": {
+    "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
+        "projectUniqueName": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
         "projectName": "MINI KeyBoard",
-        "projectPath": "c:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
+        "projectPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\MINI KeyBoard.csproj",
         "packagesPath": "C:\\Users\\menno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\obj\\",
+        "outputPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\MINI-KeyBoard-source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\menno\\AppData\\Roaming\\NuGet\\NuGet.Config"

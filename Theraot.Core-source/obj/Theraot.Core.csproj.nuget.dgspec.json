@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj": {}
+    "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj": {
+    "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
+        "projectUniqueName": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
         "projectName": "Theraot.Core",
-        "projectPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
+        "projectPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\Theraot.Core.csproj",
         "packagesPath": "C:\\Users\\menno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\menno\\Documents\\Codex\\2026-08-24\\how\\outputs\\MINI-KeyBoard-editable\\Theraot.Core-source\\obj\\",
+        "outputPath": "C:\\Users\\menno\\Downloads\\MINI-KeyBoard-editable\\Theraot.Core-source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\menno\\AppData\\Roaming\\NuGet\\NuGet.Config"
